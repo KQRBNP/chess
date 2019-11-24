@@ -1,5 +1,5 @@
 ##### >> uci
-```
+```css
 << id name Stockfish 10 64 BMI2
 << id author T. Romstad, M. Costalba, J. Kiiski, G. Linscott
 << 
