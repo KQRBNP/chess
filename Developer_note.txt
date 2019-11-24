@@ -1,0 +1,22 @@
+stockfish
+
+setoption name Debug Log File value <Filename>
+
+
+
+uci <- getOptions
+
+
+-------
+
+
+compile stockfish
+
+https://github.com/official-stockfish/Stockfish
+
+
+-------
+
+Universal Chess Interface (UCI) engine protocol
+
+https://www.shredderchess.com/download.html
