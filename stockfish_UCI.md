@@ -1,4 +1,5 @@
 ##### >> uci
+```
 << id name Stockfish 10 64 BMI2
 << id author T. Romstad, M. Costalba, J. Kiiski, G. Linscott
 << 
@@ -22,3 +23,4 @@
 << option name Syzygy50MoveRule type check default true
 << option name SyzygyProbeLimit type spin default 7 min 0 max 7
 << uciok
+```
