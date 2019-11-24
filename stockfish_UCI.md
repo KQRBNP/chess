@@ -1,4 +1,4 @@
-<font color="red">uci</font>
+##### uci
 
 ```css
 id name Stockfish 10 64 BMI2
