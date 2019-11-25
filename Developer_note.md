@@ -32,4 +32,4 @@ option name Hash type spin default 16 min 1 max 131072
 
 -------
 
-<a href="https://github.com/official-stockfish/Stockfish/blob/master/Readme.md">https://github.com/official-stockfish/Stockfish/blob/master/Readme.md</a>
+https://github.com/official-stockfish/Stockfish/blob/master/Readme.md
