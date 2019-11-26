@@ -47,3 +47,8 @@ https://github.com/fsmosca/chess-artist
 
 Endgame table
 https://github.com/niklasf/syzygy-tables.info
+
+---
+
+Evaluation:
+https://github.com/hxim
