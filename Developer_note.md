@@ -42,3 +42,8 @@ Source Code: https://lichess.org/source
 
 Smallfish-related: 
 https://github.com/fsmosca/chess-artist
+
+----
+
+Endgame table
+https://github.com/niklasf/syzygy-tables.info
