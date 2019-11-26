@@ -36,6 +36,9 @@ https://github.com/official-stockfish/Stockfish/blob/master/Readme.md
 
 https://lichess.org/
 
+Source Code: https://lichess.org/source
+
 ----
 
+Smallfish-related: 
 https://github.com/fsmosca/chess-artist
