@@ -35,3 +35,7 @@ option name Hash type spin default 16 min 1 max 131072
 https://github.com/official-stockfish/Stockfish/blob/master/Readme.md
 
 https://lichess.org/
+
+----
+
+https://github.com/fsmosca/chess-artist
