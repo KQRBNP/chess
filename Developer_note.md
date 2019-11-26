@@ -52,3 +52,4 @@ https://github.com/niklasf/syzygy-tables.info
 
 Evaluation:
 https://github.com/hxim
+https://www.chessprogramming.org/Evaluation
