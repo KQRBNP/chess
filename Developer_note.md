@@ -93,7 +93,7 @@ bestmove e2e4 ponder e7e5
 
 info | ply depth | sel depth  | multi PV | score | nodes Searched | <a href="https://www.chessprogramming.org/Nodes_per_Second">Nodes Per Second</a> |
 --- | --- | --- | --- | --- | --- | ---
-info | depth 1 | seldepth 1 | multipv 1 | score cp 116 | nodes 20 | nps 20000 | tbhits 0 time 1 pv e2e4
+info | depth 1 | seldepth 1 | multipv 1 | score <a href="https://chess.fandom.com/wiki/Centipawn">cp</a> 116 | nodes 20 | nps 20000 | tbhits 0 time 1 pv e2e4
 
 
 -------
