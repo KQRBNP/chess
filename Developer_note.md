@@ -102,7 +102,7 @@ option name Hash type spin default 16 min 1 max 131072
 
 131072 --> 131072 MB --> 131.072 GB (spin's unit)
 
-2048 -> 2.048 GB
+8192 MB
 
 16000 -> 16 GB
 
