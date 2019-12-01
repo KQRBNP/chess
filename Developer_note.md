@@ -111,3 +111,7 @@ https://github.com/niklasf/stockfish.js/
 https://www.chessprogramming.org/Evaluation
 
 https://hxim.github.io/Stockfish-Evaluation-Guide/
+
+---
+
+https://chess.fandom.com/wiki/Centipawn
