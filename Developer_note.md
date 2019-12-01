@@ -62,7 +62,7 @@ setoption name SyzygyPath value /Users/daniel/My-Files/My-R-projects/R-Chess/syz
 setoption name Threads value 8
 setoption name Hash value 8192
 setoption name ponder value true
-go depth 15
+go depth 20
 ```
 
 -------
