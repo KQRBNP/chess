@@ -73,6 +73,9 @@ Universal Chess Interface (UCI) engine protocol
 
 https://www.shredderchess.com/download.html
 
+Use UCI:
+
+https://stackoverflow.com/questions/17003561/using-the-universal-chess-interface
 
 -------
 
