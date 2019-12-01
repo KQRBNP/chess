@@ -58,10 +58,10 @@ Total evaluation: 0.10 (white side)
 ```
 
 ```
-setoption name SyzygyPath value /Users/daniel/My-Files/My-R-projects/R-Chess/syzygy
+setoption name Clear Hash
 setoption name Threads value 8
 setoption name Hash value 8192
-setoption name ponder value true
+setoption name SyzygyPath value /Users/daniel/My-Files/My-R-projects/R-Chess/syzygy
 go depth 20
 ```
 
