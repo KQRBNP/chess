@@ -48,6 +48,8 @@ https://github.com/fsmosca/chess-artist
 Endgame table
 https://github.com/niklasf/syzygy-tables.info
 
+wget -e robots=off --reject="index.html*" --no-parent --recursive --relative --no-directories http://tablebase.sesse.net/syzygy/3-4-5/
+
 ---
 
 Evaluation:
