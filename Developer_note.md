@@ -138,6 +138,8 @@ https://github.com/niklasf/syzygy-tables.info
 
 wget -e robots=off --reject="index.html*" --quiet --no-parent --recursive --relative --no-directories http://tablebase.sesse.net/syzygy/3-4-5/
 
+put all files in the same folder
+
 WDL (win/draw/loss) and DTZ (distance to zero)
 
 ---
