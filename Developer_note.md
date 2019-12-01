@@ -8,7 +8,8 @@ uci <- getOptions
 
 use stockfish interactively:
 
-### d 
+```
+d
 
  +---+---+---+---+---+---+---+---+
  | r | n | b | q | k | b | n | r |
@@ -32,7 +33,7 @@ Fen: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
 Key: B4D30CD15A43432D
 Checkers: 
 
-### eval
+eval
 
      Term    |    White    |    Black    |    Total   
              |   MG    EG  |   MG    EG  |   MG    EG 
@@ -54,6 +55,7 @@ Checkers:
        Total |  ----  ---- |  ----  ---- |  0.00  0.00
 
 Total evaluation: 0.10 (white side)
+```
 
 -------
 
