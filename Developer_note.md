@@ -91,7 +91,7 @@ info depth 9 seldepth 8 multipv 1 score cp 60 nodes 11187 nps 932250 tbhits 0 ti
 bestmove e2e4 ponder e7e5
 ```
 
-info | ply depth | sel depth  | multi <a href="https://www.chessprogramming.org/Principal_Variation">PV</a> | score | nodes Searched | <a href="https://www.chessprogramming.org/Nodes_per_Second">Nodes Per Second</a> | TableBase Hits | time elapsed (ms) | <a href="https://www.chessprogramming.org/Principal_Variation">PV</a> Line
+info | ply search depth | <a href="https://www.chessprogramming.org/Depth#Selective_Search_Depth">Selective Search Depth</a>  | multi <a href="https://www.chessprogramming.org/Principal_Variation">PV</a> | score | nodes Searched | <a href="https://www.chessprogramming.org/Nodes_per_Second">Nodes Per Second</a> | TableBase Hits | time elapsed (ms) | <a href="https://www.chessprogramming.org/Principal_Variation">PV</a> Line
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 info | depth 1 | seldepth 1 | multipv 1 | score <a href="https://chess.fandom.com/wiki/Centipawn">cp</a> 116 | nodes 20 | nps 20000 | tbhits 0 | time 1 | pv e2e4
 
