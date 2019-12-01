@@ -57,3 +57,5 @@ https://github.com/hxim
 https://github.com/niklasf/stockfish.js/
 
 https://www.chessprogramming.org/Evaluation
+
+https://hxim.github.io/Stockfish-Evaluation-Guide/
