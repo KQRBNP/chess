@@ -77,6 +77,7 @@ Use UCI:
 
 https://stackoverflow.com/questions/17003561/using-the-universal-chess-interface
 
+```
 go
 info depth 1 seldepth 1 multipv 1 score cp 116 nodes 20 nps 20000 tbhits 0 time 1 pv e2e4
 info depth 2 seldepth 2 multipv 1 score cp 112 nodes 54 nps 54000 tbhits 0 time 1 pv e2e4 b7b6
@@ -88,10 +89,11 @@ info depth 7 seldepth 7 multipv 1 score cp 67 nodes 4481 nps 640142 tbhits 0 tim
 info depth 8 seldepth 8 multipv 1 score cp 60 nodes 7849 nps 872111 tbhits 0 time 9 pv e2e4 e7e5 g1f3 d7d5 d2d4 b8c6 f3e5
 info depth 9 seldepth 8 multipv 1 score cp 60 nodes 11187 nps 932250 tbhits 0 time 12 pv e2e4 e7e5 g1f3 d7d5 d2d4 b8c6 f3e5
 bestmove e2e4 ponder e7e5
+```
 
-info | ply depth | sel depth  | multi PV | score | ---
---- | --- | --- | --- | --- | ---
-info | depth 1 | seldepth 1 | multipv 1 | score cp 116 | nodes 20 nps 20000 tbhits 0 time 1 pv e2e4
+info | ply depth | sel depth  | multi PV | score | nodes Searched | <a href="https://www.chessprogramming.org/Nodes_per_Second">Nodes Per Second</a> |
+--- | --- | --- | --- | --- | --- | ---
+info | depth 1 | seldepth 1 | multipv 1 | score cp 116 | nodes 20 | nps 20000 | tbhits 0 time 1 pv e2e4
 
 
 -------
