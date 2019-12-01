@@ -122,6 +122,8 @@ https://github.com/niklasf/syzygy-tables.info
 
 wget -e robots=off --reject="index.html*" --quiet --no-parent --recursive --relative --no-directories http://tablebase.sesse.net/syzygy/3-4-5/
 
+WDL (win/draw/loss) and DTZ (distance to zero)
+
 ---
 
 Evaluation:
@@ -137,3 +139,5 @@ https://hxim.github.io/Stockfish-Evaluation-Guide/
 ---
 
 https://chess.fandom.com/wiki/Centipawn
+
+https://python-chess.readthedocs.io/en/latest/index.html
