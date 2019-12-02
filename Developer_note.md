@@ -2,6 +2,10 @@ Alpha Zero
 
 https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go
 
+"AlphaZero replaces the handcrafted knowledge and domain-specific augmentations used in
+traditional game-playing programs with deep neural networks, a general-purpose reinforcement
+learning algorithm, and a general-purpose tree search algorithm."
+
 ---
 
 stockfish
