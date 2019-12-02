@@ -4,7 +4,7 @@ https://deepmind.com/research/publications/Mastering-Atari-Go-Chess-and-Shogi-by
 
 The brain is the best example of a general reinforcement learning algo.
 
-<a href="https://en.wikipedia.org/wiki/Demis_Hassabis">Demis Hassabis</a>has a PhD in neuroscience and sought to connect brain and machine learning: DeepMind's mission is to "solve intelligence" and then use intelligence "to solve everything else". Connecting psychology with intelligence and thus artificial intelligence to help solve the world's problems.
+<a href="https://en.wikipedia.org/wiki/Demis_Hassabis">Demis Hassabis</a> has a PhD in neuroscience and sought to connect brain and machine learning: DeepMind's mission is to "solve intelligence" and then use intelligence "to solve everything else". Connecting psychology with intelligence and thus artificial intelligence to help solve the world's problems.
 
 ---
 
@@ -17,6 +17,8 @@ traditional game-playing programs with deep neural networks, a general-purpose r
 learning algorithm, and a general-purpose tree search algorithm."
 
 https://www.youtube.com/watch?v=MPXGiowUr0o
+
+https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188
 
 ---
 
