@@ -1,3 +1,9 @@
+Alpha Zero
+
+https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go
+
+---
+
 stockfish
 
 setoption name Debug Log File value <Filename>
