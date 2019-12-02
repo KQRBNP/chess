@@ -6,6 +6,8 @@ https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess
 traditional game-playing programs with deep neural networks, a general-purpose reinforcement
 learning algorithm, and a general-purpose tree search algorithm."
 
+https://www.youtube.com/watch?v=MPXGiowUr0o
+
 ---
 
 stockfish
