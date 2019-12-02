@@ -6,6 +6,8 @@ The brain is the best example of a general reinforcement learning algo.
 
 <a href="https://en.wikipedia.org/wiki/Demis_Hassabis">Demis Hassabis</a> has a PhD in neuroscience and sought to connect brain and machine learning: DeepMind's mission is to "solve intelligence" and then use intelligence "to solve everything else". Connecting psychology with intelligence and thus artificial intelligence to help solve the world's problems.
 
+<a href="https://towardsdatascience.com/deepmind-unveils-muzero-a-new-agent-that-mastered-chess-shogi-atari-and-go-without-knowing-the-d755dc80ff08">MuZero</a>: "At every one of these steps the model predicts the policy (e.g. the move to play), value function (e.g. the predicted winner), and immediate reward (e.g. the points scored by playing a move)"
+
 ---
 
 Alpha Zero
