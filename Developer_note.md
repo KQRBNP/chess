@@ -1,4 +1,4 @@
-Inspired connections:
+Inspirational:
 
 https://deepmind.com/research/publications/Mastering-Atari-Go-Chess-and-Shogi-by-Planning-with-a-Learned-Model
 
