@@ -95,6 +95,10 @@ go depth 20
 position startpos moves e2e4 e7e6 d2d4 d7d5 e4e5 c7c5 c2c3 b8c6 g1f3 g8e7 f1d3 e7f5 d3c2 c5d4 c3d4 d8b6 c2f5 e6f5 e1g1 f8e7 b1c3 c8e6 h2h3 e8g8 a1b1 a8c8 c1f4 h7h6 f1e1 a7a6 a2a3 b6d8 f4d2 g7g5 b2b4 b7b5 c3e2 f5f4 b1b3 e6f5 b3c3 d8b6 d1a1 a6a5 b4a5 c6a5 c3c8 f8c8 e2c3 f5e6 a1b1 a5c4 c3b5 c8a8 d2b4 e7b4 b1b4 c4a3 e1a1 a8b8 b4a3 b6b5 f3h2 b5b4 a3a7 g8g7 h2g4 b8b7 a7a4 b4a4 a1a4 b7b1 g1h2 b1b2 h2g1 b2c2 a4a1 e6g4 h3g4 c2c4 a1d1 g7g6 g1f1 h6h5 g4h5 g6h5 f1e2 c4b4 e2d3 b4b3 d3c2 b3a3 c2b2 a3a8 b2c3 h5g6 d1d2 g6f5 d2b2 a8a3 c3b4 a3a1 b4c5 a1a5 c5b4 a5a6 b4b5 a6a8 b5c5 a8a5 c5b6 a5a3 b6c5
 ```
 
+```
+position fen rnbq1bn1/1p2kpp1/2Q1p2r/p1ppP2p/3P2P1/2P5/PP3P1P/RNB1KBNR b KQ - 1 8
+```
+
 -------
 
 
