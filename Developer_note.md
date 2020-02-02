@@ -30,7 +30,7 @@ setoption name Debug Log File value <Filename>
 
 
 
-uci <- getOptions
+uci <- Information about available options.
 ```
 uci
 id name Stockfish 11 64 BMI2
