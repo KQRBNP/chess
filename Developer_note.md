@@ -145,9 +145,10 @@ https://en.wikipedia.org/wiki/Shane%27s_Chess_Information_Database
 
 To compile <a href="http://scid.sourceforge.net/">SCID</a>:
 
-./configure BINDIR="/usr/local/bin"
-make
-make install
+./configure BINDIR="/usr/local/bin"<BR>
+make<BR>
+make install<BR>
+make eco2pgn
 
 -------
 
