@@ -148,7 +148,8 @@ To compile <a href="http://scid.sourceforge.net/">SCID</a>:
 ./configure BINDIR="/usr/local/bin"<BR>
 make<BR>
 make install<BR>
-make eco2pgn
+make eco2pgn<BR>
+./eco2pgn scid.eco > scideco.pgn
 
 -------
 
