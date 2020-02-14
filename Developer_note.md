@@ -139,6 +139,18 @@ make build ARCH=x86-64-bmi2
 
 -------
 
+Encyclopaedia of Chess Openings (ECO)
+
+https://en.wikipedia.org/wiki/Shane%27s_Chess_Information_Database
+
+To compile <a href="http://scid.sourceforge.net/">SCID</a>:
+
+./configure BINDIR="/usr/local/bin"
+make
+make install
+
+-------
+
 Universal Chess Interface (UCI) engine protocol
 
 https://www.shredderchess.com/download.html
