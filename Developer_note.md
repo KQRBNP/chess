@@ -151,6 +151,8 @@ make install<BR>
 make eco2pgn<BR>
 ./eco2pgn scid.eco > scideco.pgn
 
+For Mac, use <a href="http://scidvspc.sourceforge.net/">Scid vs. PC</a> instead
+
 -------
 
 Universal Chess Interface (UCI) engine protocol
